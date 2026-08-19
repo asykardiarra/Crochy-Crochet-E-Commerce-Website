@@ -469,10 +469,6 @@ Project ini telah digunakan pada hosting berbasis web dan dapat diakses melalui:
 
 https://crochy.rf.gd/
 
-**Alternative:**
-
-https://crochy.great-site.net/
-
 Untuk deployment sendiri, pastikan:
 
 1. PHP telah tersedia pada hosting.
