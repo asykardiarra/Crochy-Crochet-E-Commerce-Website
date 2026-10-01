@@ -514,10 +514,12 @@
       .hero-sub{text-align:center;margin:0 auto 2rem}
       .hero-cta{align-items:center}
       .hero-btns{justify-content:center}
-      #produk,#profil,#diskon{padding:4rem 1.5rem}
-      #keranjang{padding:4rem 1.5rem}
-      #cara-pesan{padding:4rem 1rem}
-      #pesanan-saya,#checkout-alamat,#checkout-bayar{padding:4rem 1.5rem}
+      #produk,#profil,#diskon{padding:7rem 1.5rem 4rem}
+      #keranjang{padding:7rem 1.5rem 4rem}
+      #cara-pesan{padding:7rem 1rem 4rem}
+      #pesanan-saya,#checkout-alamat,#checkout-bayar{padding:7rem 1.5rem 4rem}
+      .section-header{margin-bottom:2.5rem}
+      .section-eyebrow{margin-bottom:.9rem}
       .steps-wrap{grid-template-columns:repeat(2,1fr)}
       .step{width:auto}
       .step-arrow{display:none}
@@ -527,6 +529,8 @@
       .profil-info .info-item{flex-wrap:wrap}
       .profil-info .info-item .label{min-width:80px}
       footer{padding:2.5rem 1.5rem 1.5rem}
+      .footer-links{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem .5rem;justify-items:center;max-width:380px;margin:0 auto 2rem}
+      .footer-links a{font-size:.72rem;letter-spacing:.8px;white-space:nowrap}
       .cart-badge .badge-count { right: -12px; top: -8px; font-size: .5rem; min-width: 16px; height: 16px; }
     }
 
